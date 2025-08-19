@@ -9,8 +9,10 @@
 - 🎮 No meu tempo livre gosto de: **jogar, aprender coisas novas e explorar tecnologia**  
 - 📖 Lendo atualmente: *Pai Rico Pai Pobre*  
 
+
 ---
 
+ 
 ## Eu já estudei/trabalhei com... 🔧
 
 ### Tecnologias & Ferramentas
@@ -21,7 +23,10 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+
 ---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -35,7 +40,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLima-07&theme=radical" alt="GitHub Streak" />
 </p>
+
+
 ---
+
 
 ## Entre em contato comigo! 📬
 
