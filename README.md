@@ -82,24 +82,9 @@ Atualmente estou focado em:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroLima-07&show_icons=true&theme=radical"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroLima-07&show_icons=true&theme=radical&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLima-07&layout=compact&theme=radical"/>
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLima-07&layout=compact&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLima-07&theme=radical"/>
-
-</p>
-
----
 
 ## 📬 Contato
 
