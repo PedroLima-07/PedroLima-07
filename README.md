@@ -1,25 +1,18 @@
 # 👋 Olá, eu sou o Pedro
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-🎓 Atualmente no **3º semestre na FACENS**
-🚀 Buscando evoluir como **Desenvolvedor de Software**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 3º semestre
+💻 Focado em **Desenvolvimento Web**
+🚀 Buscando minha primeira oportunidade de **estágio em desenvolvimento**
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-* 📚 Atualmente estudando: **Java, POO, Engenharia de Software e Redes**
-* 💡 Interesses em: **Desenvolvimento de Software, Banco de Dados e Sistemas Operacionais**
-* 🔐 Curioso sobre **Tecnologia, Inovação e Segurança da Informação**
-* 🎮 No tempo livre gosto de **jogar, estudar tecnologia e desenvolver pequenos projetos**
-* 📖 Lendo atualmente: *Pai Rico Pai Pobre*
+Desde pequeno sempre tive interesse por **computadores e tecnologia**, o que me levou a escolher a área de desenvolvimento.
 
----
+Hoje estou focado em aprender **desenvolvimento web**, construir projetos práticos e evoluir minhas habilidades para me tornar um **desenvolvedor cada vez mais completo**.
 
-## 🚀 Objetivo
-
-Atualmente estou focado em **construir projetos práticos**, aprimorar minhas habilidades em programação e aprender boas práticas de desenvolvimento para me tornar um **desenvolvedor de software sólido**.
+Gosto especialmente de **construir sistemas e entender como as aplicações funcionam internamente**.
 
 ---
 
@@ -29,57 +22,60 @@ Atualmente estou focado em **construir projetos práticos**, aprimorar minhas ha
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
-
----
-
-## 📚 Atualmente aprendendo
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-POO-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Engenharia%20de%20Software-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Redes%20de%20Computadores-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Estruturas%20de%20Dados-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📚 Atualmente estudando
 
-📌 *(Adicione aqui seus melhores projetos)*
+* Estruturas de Dados
+* Desenvolvimento Web (HTML, CSS e JavaScript)
+* Análise de Sistemas
+* Estatística
 
-* 🔗 **Sistema de Cadastro em Java**
-  Projeto simples utilizando conceitos de POO.
+Também estudo por fora através de:
 
-* 🔗 **Landing Page Responsiva**
-  Página web utilizando HTML, CSS e responsividade.
-
-* 🔗 **Projeto de Estrutura de Dados**
-  Implementação de estruturas básicas em Java.
+* 📖 **Curso de JavaScript — Curso em Vídeo**
+* 🚀 **Formação Full Stack — Rocketseat**
 
 ---
 
-## 🎯 Roadmap de aprendizado
+## 🚀 Projetos
 
-✔️ Lógica de Programação
-✔️ Git e GitHub
-✔️ Java básico
+### 📦 Sistema de Gerenciamento de Estoque (Java)
 
-⬜ Estruturas de Dados
-⬜ Banco de Dados
-⬜ Desenvolvimento Web
-⬜ APIs e Backend
+Projeto desenvolvido para praticar **lógica de programação e orientação a objetos**, permitindo controlar produtos dentro de um sistema simples de estoque.
+
+### 🌐 Landing Page
+
+Projeto de página web utilizando **HTML e CSS**, focado em estruturação semântica e layout.
+
+*(Em breve novos projetos conforme avanço nos estudos em JavaScript e desenvolvimento web.)*
+
+---
+
+## 🎯 Objetivos atuais
+
+Atualmente estou focado em:
+
+* Aprender **JavaScript**
+* Evoluir no **desenvolvimento frontend**
+* Construir mais **projetos práticos**
+* Conseguir minha primeira oportunidade de **estágio em desenvolvimento**
 
 ---
 
@@ -105,18 +101,12 @@ Atualmente estou focado em **construir projetos práticos**, aprimorar minhas ha
 
 ---
 
-## 📈 Atividade no GitHub
-
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLima-07\&theme=radical)](https://github.com/PedroLima-07)
-
----
-
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE-SEU-LINK)
 
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEUEMAIL)
 
 ---
 
-✨ *Este perfil está em constante evolução enquanto continuo aprendendo e desenvolvendo novos projetos.*
+🎮 No tempo livre gosto de jogar **Red Dead Redemption 2**, estudar tecnologia e explorar novas ferramentas.
