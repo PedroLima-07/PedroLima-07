@@ -74,6 +74,6 @@ Atualmente estou focado em:
   <a href="https://wa.me/5515996874073" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" /></a>
 </div>
 
----
 
-🎮 No tempo livre gosto de jogar **Red Dead Redemption 2**, estudar tecnologia e explorar novas ferramentas.
+
+
