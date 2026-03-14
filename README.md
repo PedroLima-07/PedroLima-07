@@ -42,20 +42,6 @@ Também estudo por fora através de:
 
 ---
 
-## 🚀 Projetos
-
-### 📦 Sistema de Gerenciamento de Estoque (Java)
-
-Projeto desenvolvido para praticar **lógica de programação e orientação a objetos**, permitindo controlar produtos dentro de um sistema simples de estoque.
-
-### 🌐 Landing Page
-
-Projeto de página web utilizando **HTML e CSS**, focado em estruturação semântica e layout.
-
-*(Em breve novos projetos conforme avanço nos estudos em JavaScript e desenvolvimento web.)*
-
----
-
 ## 🎯 Objetivos atuais
 
 Atualmente estou focado em:
@@ -80,9 +66,13 @@ Atualmente estou focado em:
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE-SEU-LINK)
-
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEUEMAIL)
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-lima-0a0193349/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pedrocardosolima20@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5515996874073" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" /></a>
+</div>
 
 ---
 
