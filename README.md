@@ -38,7 +38,6 @@ Gosto especialmente de **construir sistemas e entender como as aplicações func
 
 Também estudo por fora através de:
 
-* 📖 **Curso de JavaScript — Curso em Vídeo**
 * 🚀 **Formação Full Stack — Rocketseat**
 
 ---
