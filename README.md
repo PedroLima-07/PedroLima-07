@@ -35,7 +35,11 @@ Gosto de aprender na prática e estou sempre em busca de novos conhecimentos par
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
 </p>
 
-<br clear="both"/>
+<h3>Git Status</h3>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolima-07&show_icons=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima-07&layout=compact&theme=transparent&title_color=1F6FEB&text_color=FFFFFF"/>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
