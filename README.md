@@ -1,13 +1,15 @@
-<img align="right" src="https://via.placeholder.com/250x250.png?text=Sua+Imagem" width="250"/>
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?color=1F6FEB&size=30&width=600&lines=Olá,+eu+sou+o+Pedro+Lima!">
 </h1>
 
+<img align="right" src="https://i.pinimg.com/736x/bd/d2/09/bdd2099f5ef27707d2b6912f5fb56877.jpg" width="400"/>
+
 <p>
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>, com foco em me tornar um <strong>Desenvolvedor Web</strong>.<br>
-  Tenho me dedicado ao desenvolvimento de aplicações utilizando <strong>HTML, CSS, JavaScript e Java</strong>, buscando construir uma base sólida tanto no front-end quanto no back-end.<br>
-  Estou em constante evolução, aprimorando minhas habilidades por meio de estudos, projetos práticos e explorando novas tecnologias que contribuam para o meu crescimento na área de desenvolvimento.
+Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>.
+Tenho como objetivo me tornar um <strong>Desenvolvedor Web</strong>, com foco tanto em front-end quanto em back-end.<br>
+Tenho me dedicado ao desenvolvimento utilizando <strong>HTML, CSS, JavaScript e Java</strong>, buscando construir uma base sólida e evoluir constantemente.
+Gosto de aprender na prática e estou sempre em busca de novos conhecimentos para criar soluções cada vez melhores.
 </p>
 
 <h3>Connect with me</h3>
@@ -32,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
 </p>
+
+<br clear="both"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
