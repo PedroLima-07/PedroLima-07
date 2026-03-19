@@ -13,14 +13,15 @@ Gosto de aprender na prática e estou sempre em busca de novos conhecimentos par
 </p>
 
 <h3>Connect with me</h3>
+
 <p>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:pedrocardosolima20@email.com">
     <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=1F6FEB">
   </a>
-  <a href="https://www.linkedin.com/in/seu-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=1F6FEB">
+  <a href="https://www.linkedin.com/in/pedro-lima-0a0193349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F">
   </a>
-  <a href="https://wa.me/5511999999999">
+  <a href="https://wa.me/5515996874073">
     <img src="https://img.shields.io/badge/WhatsApp-0A192F?style=for-the-badge&logo=whatsapp&logoColor=1F6FEB">
   </a>
 </p>
