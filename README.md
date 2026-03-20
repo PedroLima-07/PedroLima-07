@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=1F6FEB&size=30&width=600&lines=Olá,+eu+sou+o+Pedro+Lima!">
 </h1>
 
-<img align="right" src="https://i.pinimg.com/736x/bd/d2/09/bdd2099f5ef27707d2b6912f5fb56877.jpg" width="400"/>
+<img align="right" src="https://i.pinimg.com/736x/fe/b4/a5/feb4a5fbcb765acc494c6c6650ee2ca1.jpg" width="400"/>
 
 <p>
 Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>.
