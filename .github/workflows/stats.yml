@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull
+          git pull -- rebase
           git add stats.svg langs.svg
           git commit -m "update stats" || echo "sem mudanças"
-          git push
+          git push --force
