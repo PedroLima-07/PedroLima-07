@@ -22,8 +22,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git fetch origin
-          git reset --hard origin/main
+          git pull
+          git pull --rebase
           git add stats.svg langs.svg
           git commit -m "update stats" || echo "sem mudanças"
-          git push origin main --force
+          git push
+          git push --force
