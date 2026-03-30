@@ -5,6 +5,11 @@ on:
     - cron: "0 */6 * * *" # roda a cada 6 horas
   workflow_dispatch:
 
+# 🔥 EVITA DOIS RUNS AO MESMO TEMPO (CAUSA DO SEU ERRO)
+concurrency:
+  group: github-stats
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,9 +29,14 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull
-          git pull --rebase
+
+          # 🔥 SINCRONIZA COM O REPO PRIMEIRO (EVITA "fetch first")
+          git fetch origin
+          git reset --hard origin/main
+
           git add stats.svg langs.svg
+
           git commit -m "update stats" || echo "sem mudanças"
-          git push
-          git push --force
+
+          # 🔥 PUSH NORMAL (SEM FORCE)
+          git push origin main
