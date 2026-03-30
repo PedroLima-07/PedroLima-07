@@ -38,8 +38,8 @@ Gosto de aprender na prática e estou sempre em busca de novos conhecimentos par
 
 <h3>Git Status</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolima-07&show_icons=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima-07&layout=compact&theme=transparent&title_color=1F6FEB&text_color=FFFFFF"/>
+  <img height="180em" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/main/stats.svg"/>
+  <img height="180em" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/main/langs.svg"/>
 </p>
 
 <picture align="center">
