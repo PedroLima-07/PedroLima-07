@@ -15,8 +15,8 @@ jobs:
 
       - name: Gerar stats
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=pedrolima-07&show_icons=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF"
-          curl -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima-07&layout=compact&theme=transparent&title_color=1F6FEB&text_color=FFFFFF"
+          curl -L --fail -o stats.svg "https://github-readme-stats.vercel.app/api?username=pedrolima-07&show_icons=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF"
+          curl -L --fail -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima-07&layout=compact&theme=transparent&title_color=1F6FEB&text_color=FFFFFF"
 
       - name: Commitar arquivos
         run: |
