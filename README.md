@@ -38,8 +38,7 @@ Gosto de aprender na prática e estou sempre em busca de novos conhecimentos par
 
 <h3>Git Status</h3>
 <p align="left">
-  <img height="180em" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/main/stats.svg"/>
-  <img height="180em" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/main/langs.svg"/>
+  
 </p>
 
 <picture align="center">
