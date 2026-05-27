@@ -32,27 +32,21 @@ Gosto de aprender na prática e estou sempre em busca de novos conhecimentos par
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
 </p>
 
 <h3>Git Status</h3>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PedroLima-07&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
-    height="170"
-  />
+  <div align="left">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=PedroLima-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pedrolima-07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
+</div>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLima-07&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
-    height="170"
-  />
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake.svg">
 </picture>
-
-
