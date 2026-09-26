@@ -7,8 +7,9 @@
 
 <p>
 Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>.
+Atuo como <strong>Jovem Aprendiz de TI</strong>, unindo suporte técnico (Service Desk) e apoio ao time de Sistemas no desenvolvimento e controle de chamados para o <strong>SAP</strong>.<br>
 Tenho como objetivo me tornar um <strong>Desenvolvedor Web</strong>, com foco tanto em front-end quanto em back-end.<br>
-Tenho me dedicado ao desenvolvimento utilizando <strong>HTML, CSS, JavaScript e Java</strong>, buscando construir uma base sólida e evoluir constantemente.
+Desenvolvo com <strong>HTML, CSS, JavaScript e Java</strong>, e estou aprofundando meus estudos em <strong>Angular</strong> na faculdade.
 Gosto de aprender na prática e estou sempre em busca de novos conhecimentos para criar soluções cada vez melhores.
 </p>
 
