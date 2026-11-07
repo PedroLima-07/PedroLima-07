@@ -18,8 +18,8 @@ Hoje construo o <a href="https://plusparty.app.br"><strong>+party</strong></a>, 
 
 <p>
 <a href="https://github.com/PedroLima-07/Startup-PlusParty"><strong>+party</strong></a> — comanda digital para bares em Angular + TypeScript + Supabase (Realtime). <a href="https://plusparty.app.br">Ver no ar</a><br>
-<a href="https://github.com/PedroLima-07/Landing-page-Party"><strong>+party | Landing Page</strong></a> — landing page em Angular com deploy automatizado via GitHub Actions e Cloudflare Workers.<br>
-<a href="https://github.com/PedroLima-07/UPX-III"><strong>EnerQuest</strong></a> — plataforma gamificada sobre energias renováveis em JavaScript puro, desenvolvida em equipe.
+<a href="https://github.com/PedroLima-07/PlusParty_LandingPage"><strong>+party | Landing Page</strong></a> — landing page em Angular com visões separadas para cliente e dono de estabelecimento. <a href="https://plusparty-landingpage.pedrocardosolima20.workers.dev/">Ver no ar</a><br>
+<a href="https://github.com/PedroLima-07/UPX-III"><strong>EnerQuest</strong></a> — plataforma gamificada sobre energias renováveis em JavaScript puro, desenvolvida em equipe. <a href="https://pedrolima-07.github.io/UPX-III/">Ver no ar</a>
 </p>
 
 <h3>Connect with me</h3>
